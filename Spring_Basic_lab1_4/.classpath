@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Spring4"/>
+	<classpathentry kind="lib" path="D:/jarfiles/Spring4 Jar Files/Spring4Testing jar files/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/jarfiles/Spring4 Jar Files/Spring4Testing jar files/classes12.jar"/>
+	<classpathentry kind="lib" path="D:/jarfiles/Spring4 Jar Files/Spring4Testing jar files/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/jarfiles/Spring4 Jar Files/Spring4Testing jar files/junit-4.6.jar"/>
+	<classpathentry kind="lib" path="D:/jarfiles/Spring4 Jar Files/Spring4Testing jar files/spring-aop-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/jarfiles/Spring4 Jar Files/Spring4Testing jar files/spring-beans-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/jarfiles/Spring4 Jar Files/Spring4Testing jar files/spring-context-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/jarfiles/Spring4 Jar Files/Spring4Testing jar files/spring-context-support-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/jarfiles/Spring4 Jar Files/Spring4Testing jar files/spring-core-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/jarfiles/Spring4 Jar Files/Spring4Testing jar files/spring-expression-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/jarfiles/Spring4 Jar Files/Spring4Testing jar files/spring-jdbc-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/jarfiles/Spring4 Jar Files/Spring4Testing jar files/spring-test-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/jarfiles/Spring4 Jar Files/Spring4Testing jar files/spring-tx-4.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/jarfiles/Spring4 Jar Files/Spring4-Data-JPA-Con-JarFile/spring-boot-1.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/jarfiles/Spring4 Jar Files/Spring4-Data-JPA-Con-JarFile/spring-boot-autoconfigure-1.0.0.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
